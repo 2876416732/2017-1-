@@ -1,0 +1,34 @@
+h2.big{
+    text-align: center;
+    font-family:"楷体";
+    font-size: 18px;
+    color:crimson;
+}
+
+.small{
+    text-indent: 18pt;
+    font-family:"楷体";
+    font-size: 18px;
+    color:blue;
+}
+
+p{
+    font-size: 14px;
+    color:darkorange;
+    text-decoration:underline;
+    text-indent: 20pt;
+    font-weight: bold;
+    font-family:"楷体";
+}
+
+img{
+    width:40%;
+    display: block;
+    margin:0 auto;
+}
+
+#footre{
+    text-align:left;
+    color:blueviolet;
+    font-size:20px;
+}
